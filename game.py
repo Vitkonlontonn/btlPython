@@ -274,5 +274,3 @@ while 1:
             pygame.quit()
             exit(0)
     pygame.display.flip()
-
-#Test
