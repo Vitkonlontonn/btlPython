@@ -13,7 +13,7 @@ def collision(surface1, pos1, surface2, pos2):
         return True
     return False
 def playgame():
-    # 2 - Khởi tạo
+    # 2 - Khởi tạo testtt
     pygame.init()
     width, height = 640, 480
     screen = pygame.display.set_mode((width, height))
